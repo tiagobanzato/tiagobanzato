@@ -11,9 +11,9 @@
 
 <br />
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e resolução de problemas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas. 
 
-Atualmente, estou focando meus estudos em desenvolvimento **Back-end**, com interesse especial em **Modelagem de Dados** e projetos de **Internet das Coisas (IoT)**.
+Atualmente, estou focando meus estudos em desenvolvimento Back-end.
 
 ---
 
@@ -43,12 +43,3 @@ Minhas principais habilidades e ferramentas que utilizei em projetos acadêmicos
   <img src="https://img.shields.io/badge/Thonny-0078D4?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
-
-### 🌱 O que estou aprendendo
-
-Estou sempre buscando evoluir. No momento, meus focos de estudo são:
-
-* Aprofundamento em **Spring Boot** para ecossistemas Java.
-* Estruturação de **APIs RESTful** mais robustas.
-* Busca pela minha primeira oportunidade para aplicar meus conhecimentos no mercado.
