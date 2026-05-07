@@ -1,4 +1,4 @@
-<h1 align="center">Tiago Banzato Rodrigues dos Santos</h1>
+<h1 align="center">Tiago Banzato</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas · Aspirante a Desenvolvedor Backend
@@ -11,16 +11,13 @@
   <a href="mailto:banzatorodrigues@gmail.com">
     <img src="https://img.shields.io/badge/Email-banzatorodrigues@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/tiagobanzato">
-    <img src="https://img.shields.io/badge/GitHub-tiagobanzato-181717?style=flat&logo=github"/>
-  </a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de ADS, focado em desenvolvimento backend com Java e Python. Tenho interesse em Inteligência Artificial aplicada a sistemas reais — não só usar modelos prontos, mas entender como eles funcionam e integrá-los em arquiteturas profissionais.
+Sou estudante de ADS no 3º período, focado em desenvolvimento backend com Java e Python. Tenho interesse em Inteligência Artificial aplicada a sistemas reais — não só usar modelos prontos, mas entender como eles funcionam e integrá-los em arquiteturas profissionais.
 
 Atualmente construindo projetos práticos para consolidar conhecimento em APIs REST, Machine Learning e integração entre linguagens.
 
@@ -46,35 +43,6 @@ Atualmente construindo projetos práticos para consolidar conhecimento em APIs R
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-
----
-
-## Projetos
-
-### API REST de Tarefas com IA
-API desenvolvida com Java e Spring Boot que classifica automaticamente a prioridade de tarefas (Alta, Média, Baixa) com base no conteúdo da descrição, integrando com a API do Google Gemini.
-
-`Java` `Spring Boot` `Spring Data JPA` `H2` `REST API` `Gemini API`
-
-[→ Ver repositório](https://github.com/tiagobanzato/tarefas-api)
-
----
-
-### Chatbot com IA (LLaMA 70B)
-Chatbot com interface web em HTML/CSS/JS e backend em Spring Boot, integrado ao modelo LLaMA 70B via Groq API. Respostas em português em tempo real.
-
-`Java` `Spring Boot` `JavaScript` `HTML/CSS` `Groq API` `LLaMA`
-
-[→ Ver repositório](https://github.com/tiagobanzato/chatbot-api)
-
----
-
-### Classificador de Texto com Machine Learning
-Sistema que classifica textos em categorias (Suporte Técnico, Cancelamento, Entrega, Financeiro) usando um modelo treinado com scikit-learn em Python, exposto via Flask e consumido por uma API Java.
-
-`Java` `Spring Boot` `Python` `Flask` `scikit-learn` `Machine Learning`
-
-[→ Ver repositório](https://github.com/tiagobanzato/classificador-texto)
 
 ---
 
