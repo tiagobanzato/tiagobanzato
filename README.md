@@ -1,4 +1,4 @@
-<h1 align="center">Tiago Banzato</h1>
+<h1 align="center">Tiago Banzato Rodrigues dos Santos</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas · Aspirante a Desenvolvedor Backend
@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Sou estudante de ADS no 3º período, focado em desenvolvimento backend com Java e Python. Tenho interesse em Inteligência Artificial aplicada a sistemas reais — não só usar modelos prontos, mas entender como eles funcionam e integrá-los em arquiteturas profissionais.
+Sou estudante de ADS, focado em desenvolvimento backend com Java e Python. Tenho interesse em Inteligência Artificial aplicada a sistemas reais — não só usar modelos prontos, mas entender como eles funcionam e integrá-los em arquiteturas profissionais.
 
 Atualmente construindo projetos práticos para consolidar conhecimento em APIs REST, Machine Learning e integração entre linguagens.
 
