@@ -1,12 +1,12 @@
-<h1 align="center">Tiago Banzato Rodrigues dos Santos</h1>
+<h1 align="center">Tiago Banzato</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Aspirante a Desenvolvedor Backend
+Software developer focused on backend · Dublin, Ireland
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tiagobanzato">
-    <img src="https://img.shields.io/badge/LinkedIn-tiagobanzato-0077B5?style=flat&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/banzato">
+    <img src="https://img.shields.io/badge/LinkedIn-banzato-0A66C2?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:banzatorodrigues@gmail.com">
     <img src="https://img.shields.io/badge/Email-banzatorodrigues@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -15,45 +15,51 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Sou estudante de ADS, focado em desenvolvimento backend com Java e Python. Tenho interesse em Inteligência Artificial aplicada a sistemas reais — não só usar modelos prontos, mas entender como eles funcionam e integrá-los em arquiteturas profissionais.
+I enjoy the part of software most people never see: the APIs, the data and the logic that keep a system running reliably. I learn by building, and most of what's on this profile started as a problem I wanted to solve with code.
 
-Atualmente construindo projetos práticos para consolidar conhecimento em APIs REST, Machine Learning e integração entre linguagens.
+Lately I've been exploring how to bring AI into real applications. Not just calling a model, but designing the system around it so it's useful, testable and easy to maintain.
+
+Before tech I worked in healthcare, which taught me to care about precision, process and the people on the other end of what I build.
+
+Based in Dublin · EU citizen · Open to junior and graduate software roles.
 
 ---
 
-## Stack principal
+## Things I've built
 
-**Backend**
+- **[Task Management API](https://github.com/tiagobanzato/tarefas-api)**: REST API that uses AI to classify task priority.
+- **[AI Contract Generator](https://github.com/tiagobanzato/gerador-contratos)**: full-stack app that drafts formal contracts with an LLM.
+- **[Text Classifier](https://github.com/tiagobanzato/classificador-texto)**: machine learning model served through a backend API, connecting two languages in one system.
+- **[Chatbot API](https://github.com/tiagobanzato/chatbot-api)**: conversational assistant with a web interface.
+
+---
+
+## How I work
+
+- Understand the problem first, then choose the right tool for it
+- Write code that the next person can read and change
+- Pick up new languages and technologies whenever the problem calls for it
+
+---
+
+## Tools I've worked with so far
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Dados & IA**
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Ferramentas**
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 
-## Formação
+## Education
 
-**Análise e Desenvolvimento de Sistemas** — 3º período  
-Cursando atualmente
+**Systems Analysis and Development**, PUCPR (expected 2027)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagobanzato&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobanzato&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
+**Bachelor's degree in Veterinary Medicine**, Universidade Tuiuti do Paraná (2026)
