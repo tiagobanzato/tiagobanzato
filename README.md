@@ -29,10 +29,10 @@ Based in Dublin · EU citizen · Open to junior and graduate software roles.
 
 ## Things I've built
 
-- **[Task Management API](https://github.com/tiagobanzato/tarefas-api)**: REST API that uses AI to classify task priority.
-- **[AI Contract Generator](https://github.com/tiagobanzato/gerador-contratos)**: full-stack app that drafts formal contracts with an LLM.
-- **[Text Classifier](https://github.com/tiagobanzato/classificador-texto)**: machine learning model served through a backend API, connecting two languages in one system.
-- **[Chatbot API](https://github.com/tiagobanzato/chatbot-api)**: conversational assistant with a web interface.
+- **[Task Management API](https://github.com/tiagobanzato/task-manager-api)**: REST API that uses AI to classify task priority.
+- **[AI Contract Generator](https://github.com/tiagobanzato/ai-contract-generator)**: full-stack app that drafts formal contracts with an LLM.
+- **[Text Classifier](https://github.com/tiagobanzato/ml-text-classifier)**: machine learning model served through a backend API, connecting two languages in one system.
+- **[Chatbot API](https://github.com/tiagobanzato/ai-chatbot)**: conversational assistant with a web interface.
 
 ---
 
